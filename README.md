@@ -1,1 +1,1 @@
-# QuPathScript_batch_processing_for_imaging_with_different_focus_quality
+# QuPathScript_batch_processing_for_imaging_with_intensity_variations_and_uneven_quality
